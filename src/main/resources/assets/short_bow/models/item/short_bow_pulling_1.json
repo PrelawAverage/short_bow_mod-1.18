@@ -1,0 +1,6 @@
+{
+  "parent": "short_bow:item/short_bow",
+  "textures": {
+    "layer0": "short_bow:item/short_bow_pulling_1"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "short_bow",
+  "version": "${version}",
+
+  "name": "Short Bow Mod",
+  "description": "This adds a new bow to the game! The short bow! the little brother to the bow and crossbow.",
+  "authors": [
+    "PrelawAverage5"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/short_bow/short_bow.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.prelaw.mc.ShortBowMod"
+    ]
+  },
+  "mixins": [
+    "short_bow.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

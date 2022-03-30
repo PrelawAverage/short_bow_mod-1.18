@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "net.prelaw.mc.ShortBowMod"
+    ],
+    "client": [
+      "net.prelaw.mc.ShortBowModClient"
     ]
   },
   "mixins": [

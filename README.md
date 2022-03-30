@@ -1,9 +1,10 @@
-# Fabric Example Mod
+# Short Bow Mod
 
-## Setup
+## Description
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+This is a simple mod that adds a Short Bow item to the game.
+Link to the CurseForge page: https://www.curseforge.com/minecraft/mc-mods/short-bow
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This template is available under the All Rights Reserved license.
